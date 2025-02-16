@@ -2,11 +2,11 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "logo": "https://github.com/cryptomastetrend25/USDTlogo/blob/main/usdtlogo.png",
+  "image": "https://github.com/cryptomastetrend25/USDTlogo/blob/main/usdtlogo.png",
   "description": "Tether (USDT) is a stablecoin pegged to the US Dollar.",
   "website": "https://tether.to",
-  "social_links": {
+  "social": {
     "twitter": "https://twitter.com/Tether_to",
-    "telegram": "https://twitter.com/Tether_to"
+    "telegram": "https://t.me/Tether_to"
   }
 }
