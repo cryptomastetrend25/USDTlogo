@@ -1,0 +1,19 @@
+{
+  "name": "USDT Coins List",
+  "timestamp": "2019-10-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111, // Sepolia Testnet
+      "address": "0x4993ea2ec8F27fc82Fee2e0Dc70De049074deA4B", // Your token address
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cryptomastetrend25/USDTlogo/main/usdtlogo.png"
+    }
+  ]
+}
